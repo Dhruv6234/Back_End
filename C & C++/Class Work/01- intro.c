@@ -1,10 +1,5 @@
 
 #include<stdio.h>
-main(){
-	printf("hello world Dhruv and he is a %d",420);
-}
-
-//Notes 
 
 //# is a pre processor
 //stdio standard input output
@@ -14,3 +9,14 @@ main(){
 //in built and user defined
 
 //main is a user defined function
+main()
+{
+
+	/*
+	printf("your statement");
+	
+	*/
+	printf("hello this is  hamza and he is %d",395+25);
+	
+
+}
