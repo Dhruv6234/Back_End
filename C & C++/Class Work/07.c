@@ -1,10 +1,11 @@
 #include<stdio.h>
-int main()
-{
-	
+
+
 	/*
+	 
+	 structure of switch case
 	
-	switch(condition)
+	switch(  condition   )
 	{
 		case :
 		statement;
@@ -16,11 +17,11 @@ int main()
 	
 	
 	*/
-	
-	
+int main()
+{	
 	int days;
 	
-	printf("enter a number \n");
+	printf("enter a number \n");       //  :- \n stand for escape sequence
 	scanf("%d",&days);	
 	
 	switch(days)

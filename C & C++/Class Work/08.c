@@ -4,7 +4,9 @@ int main()
 	char alpha;
 	
 	printf("Enter a value \n");
-	scanf("%c",&alpha);
+	scanf("%c",&alpha);        // %c for to represent the character and %d is for integer value 
+	
+	
 //	printf("you entered %c",alpha);
 	
 	switch(alpha)
