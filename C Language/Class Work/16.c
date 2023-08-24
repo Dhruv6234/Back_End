@@ -24,7 +24,7 @@ main()
 		scanf("%f",&marks[i]);
 		total = total + marks[i];
 	}
-	printf(" \n\n %f \n\n",total);
+	printf(" \n\n %f \n\n", total);
 	float percentage=0;
 	
 	
